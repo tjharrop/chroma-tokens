@@ -1,0 +1,14 @@
+{
+  "radius": {
+    "radius": {
+      "button": {
+        "value": "64",
+        "type": "borderRadius"
+      },
+      "input": {
+        "value": "0",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
