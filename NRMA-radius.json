@@ -2,11 +2,11 @@
   "radius": {
     "radius": {
       "button": {
-        "value": "2",
+        "value": "24",
         "type": "borderRadius"
       },
       "input": {
-        "value": "2",
+        "value": "24",
         "type": "borderRadius"
       }
     }
